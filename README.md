@@ -12,8 +12,7 @@ Theme for https://clsn.cnblogs.com .
 ```
 1、禁用模板默认CSS
 ```
-
-# 页首代码
+页首代码
 ```html
 <script type="text/javascript">$("#mobile-style").remove();</script>
 <link href="//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
