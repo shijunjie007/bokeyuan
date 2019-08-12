@@ -1,7 +1,4 @@
-﻿# Cnblogs Theme
-Theme for https://clsn.cnblogs.com .
-
-# 来源
+﻿# 来源
 源自：https：//github.com/linianhui/cnblogs.theme
 
 # 编译
