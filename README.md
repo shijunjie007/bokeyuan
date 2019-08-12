@@ -1,4 +1,4 @@
-# Cnblogs Theme
+﻿# Cnblogs Theme
 Theme for https://clsn.cnblogs.com .
 
 # 来源
@@ -16,9 +16,9 @@ Theme for https://clsn.cnblogs.com .
 ```html
 <script type="text/javascript">$("#mobile-style").remove();</script>
 <link href="//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
-<link href="//files.cnblogs.com/files/linianhui/lnh.cnblogs.css" rel="stylesheet"/>
+<link href="//blog-static.cnblogs.com/files/shijunjie/lnh.cnblogs.css" rel="stylesheet"/>
 ```
 页脚代码
 ```html
-<script type="text/javascript" src="//files.cnblogs.com/files/linianhui/lnh.cnblogs.js"></script>
+<script type="text/javascript" src="//blog-static.cnblogs.com/files/shijunjie/lnh.cnblogs.js"></script>
 ```
