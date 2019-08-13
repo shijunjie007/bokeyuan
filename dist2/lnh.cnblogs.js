@@ -234,7 +234,7 @@
     };
 
     window.lnh.addMobileCss = function () {
-        $id("home").before('<link href="//files.cnblogs.com/files/linianhui/lnh.cnblogs.mobile.css" rel="stylesheet">');
+        $id("home").before('<link href="//blog-static.cnblogs.com/files/shijunjie/lnh.cnblogs.mobile.css" rel="stylesheet">');
     };
 
 })(window, document, navigator);
