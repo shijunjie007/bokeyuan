@@ -149,8 +149,8 @@
 
         function show($toc, $body) {
             var width = $toc.width();
-            if (width > 150) {
-                width = 150;
+            if (width > 320) {
+                width = 320;
             }
             $toc.css("display", "inline-block");
             $body.css("padding-left", width + "px");
